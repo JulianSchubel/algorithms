@@ -66,7 +66,7 @@ bool nQueensPuzzle::canPlaceQueen(int k, int i)
 	for(int j = 0; j < k; j++)
 	{
 		/* Two queens are in sight if they are in the same column */
-		/* Two queens are on a diagonal if the absolute value of the difference (distance) between their rows and columns are equal */
+		/* Two queens are on a diagonal if the absolute value of the difference between their rows and columns are equal */
 		/* Difference of columns: queensInRow[j]-i  */
 		/* Difference of rows: j-k */
 		if((queensInRow[j] == i) || abs(queensInRow[j]-i) == abs(j-k))
