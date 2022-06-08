@@ -1,6 +1,12 @@
-/*
-	Functions to solve the n-queens puzzle. 
- */
+/* ************************************************************
+	Title:		Class and functions to solve n Queens Puzzle
+	Author:		Julian Schubel
+	Contact:	schubeljulian@gmail.com
+
+	History:
+		Created: 	June 08 2022
+		Completed:	June 08 2022
+************************************************************* */
 
 #include <iostream>
 
