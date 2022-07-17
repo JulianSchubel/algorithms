@@ -21,7 +21,7 @@ class nQueensPuzzle
 
 		/* Function to determine whether a queen can be placed in row k and column i */
 		/* Postcondition: 
-				returns true is a queen can be placed in row k and column i otherwise false.
+				returns true if a queen can be placed in row k and column i otherwise false.
 		*/
 		bool canPlaceQueen(int k, int i);
 
