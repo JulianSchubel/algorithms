@@ -1,7 +1,5 @@
 /* ************************************************************
 	Title:		Class and functions to solve n Queens Puzzle
-	Author:		Julian Schubel
-	Contact:	schubeljulian@gmail.com
 
 	History:
 		Created: 	June 08 2022
